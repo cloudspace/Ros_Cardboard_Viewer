@@ -1,6 +1,3 @@
-[submodule "Resources/roscardboard"]
-	path = Resources/roscardboard
-	url = git@github.com:cloudspace/ros_cardboard.git
 [submodule "Resources/ros_cardboard"]
 	path = Resources/ros_cardboard
 	url = git@github.com:cloudspace/ros_cardboard.git
