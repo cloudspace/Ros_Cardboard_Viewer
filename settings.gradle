@@ -1,0 +1,2 @@
+include ':app', ':ros_cardboard_module'
+project(':ros_cardboard_module').projectDir = new File('Resources/ros_cardboard/ros_cardboard_module')
